@@ -1,123 +1,41 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+```
+NOTE: This page is currently a work in progress and will be untidy for the forseeable future.
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Welcome to my page! 
 
-#### Header 4
+The purpose of this GitHub page is to tell you a little about me and include links to some of my projects so that they can be shared and built upon.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Work Experience
 
-##### Header 5
+* **American Express** - Senior Engineer _(2020 - present)_
+* **Kabbage, Inc** - Software Development Engineer in Test _(2018 - 2020)_
+* **AT&T TDP** - Sr. Specialist, Automation Developer _(2017 - 2018)_
+* **AT&T TDP** - Sr. Specialist, Data Visualization Analyst _(2015- 2017)_
+* **AT&T Digital Life** - Automation Developer Intern _(2013 & 2014)_
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Skills
 
-###### Header 6
+| Proficiency  | Skill                                  |
+|:-------------|:---------------------------------------|
+| Skilled      | C#, Java, GIT, OOP, Automation         | 
+| Proficient   | Python, Swift, SQL                     | 
+| Familiar     | JavaScript, TypeScript, Kotlin, Bash   | 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# Projects and Publications
 
-### There's a horizontal rule below this.
+* [TODO: Add project](./another-page.html).
+* [TODO: Add project](./another-page.html).
+* [TODO: Add project](./another-page.html).
 
-* * *
+## Education
 
-### Here is an unordered list:
+**Georgia Institute of Technology** 
+_MS Computer Science_
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+**University of Georgia** 
+_BS Computer Systems Engineering_
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
