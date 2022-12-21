@@ -1,9 +1,6 @@
----
-layout: hurricane_prediction_model
----
 
-## Welcome to another page
+## The Stage and Theater: AltspaceVR and its Relationship to Discord
 
-_yay_
+> **Disclaimer:** This paper is will be published in PACM HCI, CSCW1, April 2023 issue.
 
 [back](./)

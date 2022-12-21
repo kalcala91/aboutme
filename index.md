@@ -25,9 +25,9 @@ The purpose of this GitHub page is to tell you a little about me and include lin
 
 ## Projects and Publications
 
-* [Hurricane Prediction Model](./hurricane_prediction_model.html).
-* [TODO: Add project](./another-page.html).
-* [TODO: Add project](./another-page.html).
+* **[Hurricane Prediction Model](./hurricane_prediction_model.html):** Machine learning project designed to predict hurricane trajectories or track forecasting.
+* **[ TODO: Add More Projects ]**
+* **[The Stage and Theater: AltspaceVR and its Relationship to Discord](./another-page.html):** 
 
 ### Education
 
