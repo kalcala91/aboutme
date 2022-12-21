@@ -25,7 +25,7 @@ The purpose of this GitHub page is to tell you a little about me and include lin
 
 ## Projects and Publications
 
-* [TODO: Add project](./another-page.html).
+* [Hurricane Prediction Model](./hurricane_prediction_model.html).
 * [TODO: Add project](./another-page.html).
 * [TODO: Add project](./another-page.html).
 
